@@ -1,0 +1,2 @@
+# Sentiemt-AI
+machime rights
